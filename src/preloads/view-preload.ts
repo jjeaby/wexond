@@ -98,7 +98,6 @@ ipcRenderer.on('ppause', async (e:any, params:any) => {
   const headers = new Headers({
     'content-type': 'application/json',
     'cache-control': 'no-cache',
-    'zeta-client-secret-key': 'eyJpc3MiOiJ6ZXRhIiwic3ViIjoienphbmcifQ',
   })
 
   const data = {
