@@ -64,7 +64,7 @@
     "electron-builder": "20.41.0",
     "fuse-box": "3.7.1",
     "prettier": "1.17.1",
-    "terser": "4.0.0",
+    "terser": "4.8.1",
     "tslint": "5.16.0",
     "tslint-config-airbnb": "5.11.1",
     "tslint-config-prettier": "1.18.0",
